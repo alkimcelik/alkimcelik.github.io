@@ -15,7 +15,7 @@ library(mapproj)
 setwd("C:/Users/sena/Desktop/Algopoly/EPDK_Aylik_Sektor_Raporlari")
 
 
-#Due to existing Turkish Character, Language is set Turkish
+#Setting details of or set aspects of the locale for the R process.
 Sys.setlocale(category = "LC_ALL", locale = "Turkish")
 
 #Extracting tables from EPDK reports
