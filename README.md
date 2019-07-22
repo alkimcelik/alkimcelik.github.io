@@ -1,1 +1,0 @@
-% Alkım Can Çelik
