@@ -4,7 +4,7 @@
 
 In this report, 21 electric distribution companies' demand forecasting reports for next 10 years are analyzed and these companies are compared by their forecasting performances during my internship at Algopoly on 05.07.2019.
 
-### Matching Cities Based on Their Electricity Consumption Profiles ([What is Your City's Twin City?](https://alkimcelik.github.io/Electricity_Consumption_Profiles.html)) ([For Code Version](https://alkimcelik.github.io/Codes_Electricity_Consumption_Profiles.html))
+### Matching Cities Based on Their Electricity Consumption Profiles ([What is Your City's Twin City?](https://alkimcelik.github.io/Electricity_Consumption_Profiles.html)) ([For Codes](https://alkimcelik.github.io/Codes_Electricity_Consumption_Profiles.html))
 
 
 Cities' electricity consumption values from January 2017 to April 2019 are analyzed during my internship at Algopoly on 20.07.2019. They are clustered by their electricity consumption profiles. These clusters are classified and shown in Turkey map.
