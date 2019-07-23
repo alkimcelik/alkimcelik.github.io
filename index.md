@@ -17,7 +17,7 @@ From June 17,2019 to now, I'm a data science intern at Algopoly, an R&D firm. I'
 
 ## Latest Works
 
-### Analysis on Demand Forecasting Reports of Electricity Distribution Companies [Can Turkish Electricity Distribution Companies Predict the Future Well?]((https://alkimcelik.github.io/Analysis_of_Demand_Forecast_Reports.html))
+### Analysis on Demand Forecasting Reports of Electricity Distribution Companies [Can Turkish Electricity Distribution Companies Predict the Future Well?](https://alkimcelik.github.io/Analysis_of_Demand_Forecast_Reports.html)
 
 In this report, 21 electric distribution companies' demand forecasting reports for next 10 years are analyzed and these companies are compared by their forecasting performances.
 
@@ -33,7 +33,7 @@ In this report, it is examined fluctuations of the market clearing price in day-
 
 ## Contact
 
-For more information, please send an e-mail to alkimcancelik33@gmail.com, or through [Linkedin](https://www.linkedin.com/in/alk%C4%B1m-can-%C3%A7elik-b8446b131/), or visit my [GitHub](https://github.com/alkimcelik) page. Please check my [CV](https://github.com/alkimcelik/alkimcelik.github.io/blob/master/Alk%C4%B1m%20Can_%C3%87elik_Resume.pdf)
+For more information, please send an e-mail to alkimcancelik33@gmail.com, or through [Linkedin](https://www.linkedin.com/in/alk%C4%B1m-can-%C3%A7elik-b8446b131/), or visit my [GitHub](https://github.com/alkimcelik) page. Please check my [CV](https://github.com/alkimcelik/alkimcelik.github.io/blob/master/Alk%C4%B1m%20Can_%C3%87elik_Resume.pdf).
 
 
 
