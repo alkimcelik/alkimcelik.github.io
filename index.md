@@ -1,6 +1,6 @@
 ## Latest Works
 
-### Analysis on Demand Forecasting Reports of Electricity Distribution Companies ([Can Turkish Electricity Distribution Companies Predict the Future Well?](https://alkimcelik.github.io/Analysis_of_Demand_Forecast_Reports.html)) 
+### An Analysis on Demand Forecasting Reports of Electricity Distribution Companies ([Can Turkish Electricity Distribution Companies Predict the Future Well?](https://alkimcelik.github.io/Analysis_of_Demand_Forecast_Reports.html)) 
 
 In this report, 21 electric distribution companies' demand forecasting reports for next 10 years are analyzed and these companies are compared by their forecasting performances during my internship at Algopoly on 05.07.2019.
 
@@ -9,7 +9,11 @@ In this report, 21 electric distribution companies' demand forecasting reports f
 
 Cities' electricity consumption values from January 2017 to April 2019 are analyzed during my internship at Algopoly on 20.07.2019. They are clustered by their electricity consumption profiles. These clusters are classified and shown in Turkey map.
 
-### Investigation on Reasons of Changes in Market Clearing Price in Day-Ahead Market at Enerji Piyasaları İşletme A.Ş. [Reasons About Fluctuations of The Market Clearing Price in Day-Ahead Market between September-2018 and March-2019](https://alkimcelik.github.io/Reasons%20about%20Fluctuations%20of%20The%20Market%20Clearing%20Price%20in%20Day-Ahead%20Market%20between%20September-2018%20and%20March-2019.html)
+### An Analysis on the Rise in the Unit Cost of YEKDEM between February 2019 and May 2019 [Why Does the Unit Cost of YEKDEM Increase?](https://alkimcelik.github.io/Rise_In_Unit_Cost_of_YEKDEM.html)
+
+The unit cost of YEKDEM had been increased from February 2019 until May 2019. Its reasons are investigated. This report was prepared during my internship at Algopoly on 02.08.2019.
+
+### A Study on Reasons of Changes in Market Clearing Price in Day-Ahead Market at Enerji Piyasaları İşletme A.Ş. [Reasons About Fluctuations of The Market Clearing Price in Day-Ahead Market between September-2018 and March-2019](https://alkimcelik.github.io/Reasons%20about%20Fluctuations%20of%20The%20Market%20Clearing%20Price%20in%20Day-Ahead%20Market%20between%20September-2018%20and%20March-2019.html)
 
 In this report, it is examined fluctuations of the market clearing price in day-ahead market.  
 
