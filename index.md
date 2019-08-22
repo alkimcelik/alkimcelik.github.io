@@ -21,7 +21,7 @@ In this report, it is examined fluctuations of the market clearing price in day-
 
 ### Algopoly
 
-From June 17,2019 to now, I'm a data science intern at Algopoly, an R&D firm. I've written 2 reports during my internship, and I'm working on the 3rd report. Reports are below in detail.
+From June 17,2019 to now, I'm a data science intern at Algopoly, an R&D firm. I've written 3 reports during my internship, and I'm working on the 4th report. Reports are above in detail.
 
 ## Softwares and Programming Languages
 
